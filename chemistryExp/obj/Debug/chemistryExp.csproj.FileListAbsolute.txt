@@ -1,0 +1,9 @@
+D:\workspaces\c#workspace\chemistryExp\chemistryExp\bin\Debug\chemistryExp.exe.config
+D:\workspaces\c#workspace\chemistryExp\chemistryExp\bin\Debug\chemistryExp.exe
+D:\workspaces\c#workspace\chemistryExp\chemistryExp\bin\Debug\chemistryExp.pdb
+D:\workspaces\c#workspace\chemistryExp\chemistryExp\obj\Debug\chemistryExp.Form1.resources
+D:\workspaces\c#workspace\chemistryExp\chemistryExp\obj\Debug\chemistryExp.Properties.Resources.resources
+D:\workspaces\c#workspace\chemistryExp\chemistryExp\obj\Debug\chemistryExp.csproj.GenerateResource.Cache
+D:\workspaces\c#workspace\chemistryExp\chemistryExp\obj\Debug\chemistryExp.exe
+D:\workspaces\c#workspace\chemistryExp\chemistryExp\obj\Debug\chemistryExp.pdb
+D:\workspaces\c#workspace\chemistryExp\chemistryExp\obj\Debug\chemistryExp.csprojResolveAssemblyReference.cache
